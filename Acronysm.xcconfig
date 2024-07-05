@@ -1,0 +1,11 @@
+//
+//  Acronysm.xcconfig
+//  Acronysm_IOS
+//
+//  Created by MacBooK Pro on 3/07/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+URLBASE = http:/$()/www.nactem.ac.uk/software/acromine/dictionary.py
